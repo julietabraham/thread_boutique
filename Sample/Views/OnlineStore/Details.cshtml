@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Sample.Models.Product>
+@{
+    ViewBag.Title = "Details";
+}
+@foreach(var p in Model)
+{
+    <div class="container" style="align-content:center;text-align:center">
+    <p>
+        
+        <img style="width:300px;height:380px" alt="@p.Title"
+         src="~/@p.ItemUrl" />
+    </p>
+    <h5>@p.Title</h5>
+        <div style="font-family: " Times New Roman", Times, serif;" id="item-details">
+        <p>
+                <label>Category:</label>
+             @p.Category?.Name
+         </p>
+         <p>
+          <label>Brand:</label>
+          @p.Brand.Name
+         </p>
+         
+         <p>
+           <label>Price:</label>
+           @String.Format("{0:F}",
+           p.Price)
+         </p>
+         <div>
+             <a href="#" class="btn btn-dark" onclick="location.href='@Url.Action("AddToCart",
+           "ShoppingCarts", new { id = @p.ProductId })'">ADD TO CART</a>
+         </div>
+        </div>
+    <div class="fb-comments" data-width="230" data-numposts="5"></div>
+ </div>
+} 

@@ -1,0 +1,785 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ThreadBoutique.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ThreadBoutique.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\.jpg",
+      "PackagePath": "staticwebassets\\images\\.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Beaded Handbag.jpg",
+      "PackagePath": "staticwebassets\\images\\Beaded Handbag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Beaded Handbag.webp",
+      "PackagePath": "staticwebassets\\images\\Beaded Handbag.webp"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Beautiful white white dress.jpg",
+      "PackagePath": "staticwebassets\\images\\Beautiful white white dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Belted overcoat.webp",
+      "PackagePath": "staticwebassets\\images\\Belted overcoat.webp"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Belted-overcoat.jpg",
+      "PackagePath": "staticwebassets\\images\\Belted-overcoat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Black Sunglasses.jpg",
+      "PackagePath": "staticwebassets\\images\\Black Sunglasses.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Black Sunglasses.webp",
+      "PackagePath": "staticwebassets\\images\\Black Sunglasses.webp"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Bottom-down-women-dress.jpg",
+      "PackagePath": "staticwebassets\\images\\Bottom-down-women-dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Bottom-down-women-dress.png",
+      "PackagePath": "staticwebassets\\images\\Bottom-down-women-dress.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Bow & Suspender Set.jpg",
+      "PackagePath": "staticwebassets\\images\\Bow & Suspender Set.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Bow & Suspender Set.webp",
+      "PackagePath": "staticwebassets\\images\\Bow & Suspender Set.webp"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Boy.jpg",
+      "PackagePath": "staticwebassets\\images\\Boy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Chino pants.jpg",
+      "PackagePath": "staticwebassets\\images\\Chino pants.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Cotton Blazers.jpg",
+      "PackagePath": "staticwebassets\\images\\Cotton Blazers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Cotton-Tailored-Dress.jpg",
+      "PackagePath": "staticwebassets\\images\\Cotton-Tailored-Dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Cotton-Tailored-Dress.png",
+      "PackagePath": "staticwebassets\\images\\Cotton-Tailored-Dress.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Dress with belt.webp",
+      "PackagePath": "staticwebassets\\images\\Dress with belt.webp"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Dress-with-belt.jpg",
+      "PackagePath": "staticwebassets\\images\\Dress-with-belt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Essentials-Men_s-Heather-Tee.jpg",
+      "PackagePath": "staticwebassets\\images\\Essentials-Men_s-Heather-Tee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Faux-Leather-Shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\Faux-Leather-Shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Faux-Leather-Shirt.png",
+      "PackagePath": "staticwebassets\\images\\Faux-Leather-Shirt.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Gentlemen Suit.jpg",
+      "PackagePath": "staticwebassets\\images\\Gentlemen Suit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\His&her Watch.jpg",
+      "PackagePath": "staticwebassets\\images\\His&her Watch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\His&her Watch.webp",
+      "PackagePath": "staticwebassets\\images\\His&her Watch.webp"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Kid.jpg",
+      "PackagePath": "staticwebassets\\images\\Kid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\KidCat.png",
+      "PackagePath": "staticwebassets\\images\\KidCat.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Kids.jpg",
+      "PackagePath": "staticwebassets\\images\\Kids.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Linen Shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\Linen Shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\LinenSuitJacket.jpg",
+      "PackagePath": "staticwebassets\\images\\LinenSuitJacket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\LongBlueDress.jpg",
+      "PackagePath": "staticwebassets\\images\\LongBlueDress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\One-piece-V-neck-dress.jpg",
+      "PackagePath": "staticwebassets\\images\\One-piece-V-neck-dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Petite Bow.jpg",
+      "PackagePath": "staticwebassets\\images\\Petite Bow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Petite Bow.webp",
+      "PackagePath": "staticwebassets\\images\\Petite Bow.webp"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\SatinBlouse.jpg",
+      "PackagePath": "staticwebassets\\images\\SatinBlouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\SatinBlouse.webp",
+      "PackagePath": "staticwebassets\\images\\SatinBlouse.webp"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Sports Wear.jpg",
+      "PackagePath": "staticwebassets\\images\\Sports Wear.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Thread Boutique-1.png",
+      "PackagePath": "staticwebassets\\images\\Thread Boutique-1.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Unisex Jogger.jpg",
+      "PackagePath": "staticwebassets\\images\\Unisex Jogger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Unisex Jogger.webp",
+      "PackagePath": "staticwebassets\\images\\Unisex Jogger.webp"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Vintage Sunglasses.jpg",
+      "PackagePath": "staticwebassets\\images\\Vintage Sunglasses.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\Vintage Sunglasses.webp",
+      "PackagePath": "staticwebassets\\images\\Vintage Sunglasses.webp"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\WinterOverCoat.jpg",
+      "PackagePath": "staticwebassets\\images\\WinterOverCoat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\WinterOverCoat.webp",
+      "PackagePath": "staticwebassets\\images\\WinterOverCoat.webp"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\accessories.jpg",
+      "PackagePath": "staticwebassets\\images\\accessories.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\b1580646-eb2e-419c-8dbc-d7127514871d_1.efc53fd088c51e98e408939ddd6032ff.jpg",
+      "PackagePath": "staticwebassets\\images\\b1580646-eb2e-419c-8dbc-d7127514871d_1.efc53fd088c51e98e408939ddd6032ff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\bracelet1.jpg",
+      "PackagePath": "staticwebassets\\images\\bracelet1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\bracelet2.jpg",
+      "PackagePath": "staticwebassets\\images\\bracelet2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\button up shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\button up shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\buynow.jpg",
+      "PackagePath": "staticwebassets\\images\\buynow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\ca1.jpg",
+      "PackagePath": "staticwebassets\\images\\ca1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\ca2.jpg",
+      "PackagePath": "staticwebassets\\images\\ca2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\ca3.jpg",
+      "PackagePath": "staticwebassets\\images\\ca3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\ca4.jpg",
+      "PackagePath": "staticwebassets\\images\\ca4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\ca5.jpg",
+      "PackagePath": "staticwebassets\\images\\ca5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\ca6.png",
+      "PackagePath": "staticwebassets\\images\\ca6.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\ca7.jpg",
+      "PackagePath": "staticwebassets\\images\\ca7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\carousel10.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\carousel2.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\carousel3.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\carousel4.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\carousel5.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\carousel6.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\carousel7.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\carousel8.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\carousel9.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\cotton dress.webp",
+      "PackagePath": "staticwebassets\\images\\cotton dress.webp"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\cotton-dress.jpg",
+      "PackagePath": "staticwebassets\\images\\cotton-dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\floral dress.webp",
+      "PackagePath": "staticwebassets\\images\\floral dress.webp"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\floral-dress.jpg",
+      "PackagePath": "staticwebassets\\images\\floral-dress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\flouncesleevetop.jpg",
+      "PackagePath": "staticwebassets\\images\\flouncesleevetop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\flowerembroiderypeplumblouse.jpg",
+      "PackagePath": "staticwebassets\\images\\flowerembroiderypeplumblouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\logo3.png",
+      "PackagePath": "staticwebassets\\images\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\logo4.png",
+      "PackagePath": "staticwebassets\\images\\logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\mens.jpg",
+      "PackagePath": "staticwebassets\\images\\mens.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\ment-shirt1.jpg",
+      "PackagePath": "staticwebassets\\images\\ment-shirt1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\shopnow.png",
+      "PackagePath": "staticwebassets\\images\\shopnow.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\shopnow1.png",
+      "PackagePath": "staticwebassets\\images\\shopnow1.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\summerdress.jpg",
+      "PackagePath": "staticwebassets\\images\\summerdress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\suzys.png",
+      "PackagePath": "staticwebassets\\images\\suzys.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\thread.png",
+      "PackagePath": "staticwebassets\\images\\thread.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\womensclothing.jpg",
+      "PackagePath": "staticwebassets\\images\\womensclothing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\images\\womensclothing_1.png",
+      "PackagePath": "staticwebassets\\images\\womensclothing_1.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\source\\repos\\Sample\\Sample\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ThreadBoutique.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ThreadBoutique.props",
+      "PackagePath": "build\\ThreadBoutique.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ThreadBoutique.props",
+      "PackagePath": "buildMultiTargeting\\ThreadBoutique.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ThreadBoutique.props",
+      "PackagePath": "buildTransitive\\ThreadBoutique.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

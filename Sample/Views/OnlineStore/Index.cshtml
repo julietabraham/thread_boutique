@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Category>
+@{
+    ViewBag.Title = "Shop By Category";
+}
+<h2>Shop By Category</h2>
+
+    @foreach(var category in Model)
+    {
+        <div>
+           <div class="col">
+                <div class="col" style="float:left">
+                      <div class="card" style="width:220px;height:380px;float:left;margin-right:15px;margin-bottom:15px">
+                          <img class="card-img-top" src="~/@category.Description" style="width:220px;height:350px">
+                          <div class="card-body" style="align-content:center;text-align:center">
+                          <h5 class="card-title">@category.Name</h5>
+                             <a href="#" class="btn btn-dark" onclick="location.href='@Url.Action("Browse",new {category=category.Name})'">SHOW MORE</a>
+                          </div>
+                      </div>
+                </div>
+           </div>
+        </div>
+        
+                   
+    }

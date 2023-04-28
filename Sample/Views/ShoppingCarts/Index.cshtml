@@ -1,0 +1,60 @@
+﻿@model Sample.ViewModels.CartViewModel
+@{
+    ViewBag.Title = "Shopping Cart";
+}
+<h3>
+    CART SUMMARY
+</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Product</th>
+            <th scope="col">Price</th>
+            <th scope="col">Quantity</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+
+
+            @foreach (var product in Model.CartItems)
+            {
+                <tr id="row-@product.RecId">
+                    <td>
+                        @Html.ActionLink(product.Product.Title,
+                     "Details", "OnlineStore", new { id = product.ProductId }, null)
+                    </td>
+                    <td>
+                        @product.Product.Price
+                    </td>
+                    <td id="item-count-@product.RecId">
+                        @product.Count
+                    </td>
+                    <td>
+                        <p class="button1">
+                            @Html.ActionLink("Remove", "RemoveFromCart",
+                "ShoppingCarts", new { id = @product.ProductId }, "")
+                        </p>
+                    </td>
+                </tr>
+            }
+
+        }
+        <tr>
+        <td></td>
+        <td></td>
+        <td>Total</td>
+        <td id="cart-total">
+            @Model.CartTotal
+        </td>
+    </tr>
+</table>
+<div>
+<p>
+    <button class="btn btn-dark" onclick="location.href='@Url.Action("Create","Orders")'">PROCEED TO CHECKOUT</button>
+
+        <button class="btn btn-dark" onclick="location.href='@Url.Action("Index","OnlineStore")'">BACK TO SHOPPING</button>
+</p>
+</div>
